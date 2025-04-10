@@ -30,6 +30,8 @@ nav ul{
     justify-content:center;
     align-items:center;
     list-style:none;
+    width:60px;
+    margin:auto;
 }
 ul li{
     position:relative;
