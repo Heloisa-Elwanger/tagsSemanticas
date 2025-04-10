@@ -16,7 +16,7 @@ body{
 header{
     position: relative;
     width:100%;
-    height:var(--height-defaul);
+    height:var(--height-default);
     background-color:cadetblue
 }
 header nav{
