@@ -34,7 +34,7 @@ nav ul{
     justify-content:center;
     align-items:center;
     list-style:none;
-    height:var(--height-defaul);
+    height:var(--height-default);
     margin:auto;
 }
 ul li{
@@ -44,5 +44,5 @@ ul li{
 
 li a{
     text-decoration:none;
-    
+
 }
