@@ -44,5 +44,6 @@ ul li{
 
 li a{
     text-decoration:none;
-
+    color:#fff
+    font-size:20pt;
 }
